@@ -1,8 +1,12 @@
-# React + Vite
+# To do list
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## a website to write down your to-dos
 
-Currently, two official plugins are available:
+### Technologies:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+-   ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+-   ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+-   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+-   ![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+
+Neste projeto eu utilizei de tecnologias front-end Html, Css e Javascript utilizando a biblioteca react junto de <a href="https://vitejs.dev/">Vite</a>, assim criei um website simples com uma interface para anotar e filtrar tarefas do dia a dia
