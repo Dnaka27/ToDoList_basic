@@ -1,6 +1,6 @@
 # To do list
 
-## a website to write down your to-dos
+## Um website para anotar suas tarefas
 
 ### Technologies:
 
