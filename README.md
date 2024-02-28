@@ -9,4 +9,4 @@
 -   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 -   ![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
-In this project I used Html, Css and Javascript front-end technologies using the <a href="https://react.dev/">react</a> library together with <a href="https://vitejs.dev/">Vite</a>, so I created a simple website with an interface to annotate and filter day to day to-dos.
+In this project I used Html, Css and Javascript front-end technologies using the <a href="https://react.dev/">React</a> library together with <a href="https://vitejs.dev/">Vite</a>, so I created a simple website with an interface to annotate and filter day to day to-dos.
